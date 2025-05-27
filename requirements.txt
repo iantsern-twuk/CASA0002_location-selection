@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+networkx
+jupyter
+notebook
+ipykernel
+plotly
+pyvis
+nxviz
